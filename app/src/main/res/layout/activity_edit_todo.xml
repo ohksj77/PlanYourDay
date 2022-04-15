@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="600dp"
+    android:layout_margin="10dp"
+    android:background="@color/brown1"
+    tools:context=".EditTodoActivity">
+
+    <EditText
+        android:id="@+id/etTodoTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="할일을 입력해주세요."
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/dateSpinner"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        />
+    <EditText
+        android:id="@+id/etTodoContent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="내용을 입력해주세요."
+        app:layout_constraintTop_toTopOf="@id/dateSpinner"
+        app:layout_constraintBottom_toTopOf="@id/dateSpinner"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginBottom="40dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="마감 기한"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@id/dateSpinner"
+        app:layout_constraintBottom_toTopOf="@id/dateSpinner"
+        android:textSize="20dp"
+        />
+
+    <DatePicker
+        android:id="@+id/dateSpinner"
+        android:layout_width="wrap_content"
+        android:layout_height="150dp"
+        android:calendarViewShown="false"
+        android:datePickerMode="spinner"
+        app:layout_constraintTop_toBottomOf="@id/etTodoContent"
+        app:layout_constraintBottom_toTopOf="@id/timeSpinner"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+    <TimePicker
+        android:id="@+id/timeSpinner"
+        android:layout_width="wrap_content"
+        android:layout_height="150dp"
+        android:calendarViewShown="false"
+        android:timePickerMode="spinner"
+        app:layout_constraintTop_toBottomOf="@id/dateSpinner"
+        app:layout_constraintBottom_toTopOf="@id/btnSave"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+
+    <Button
+        android:id="@+id/btnSave"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:layout_alignParentBottom="true"
+        android:text="저장"
+        android:textAllCaps="false"
+        app:layout_constraintTop_toBottomOf="@id/timeSpinner"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:background="@color/brown3"
+        />
+</androidx.constraintlayout.widget.ConstraintLayout>

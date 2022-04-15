@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ohksj/AndroidStudioProjects/PlanYourDay/app/src/main/res/drawable/add.xml" value="0.1" />
+        <entry key="..\:/Users/ohksj/AndroidStudioProjects/PlanYourDay/app/src/main/res/drawable/add_delete.xml" value="0.1665" />
+        <entry key="..\:/Users/ohksj/AndroidStudioProjects/PlanYourDay/app/src/main/res/drawable/day.xml" value="0.1665" />
+        <entry key="..\:/Users/ohksj/AndroidStudioProjects/PlanYourDay/app/src/main/res/layout/activity_edit_todo.xml" value="0.264" />
+        <entry key="..\:/Users/ohksj/AndroidStudioProjects/PlanYourDay/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/ohksj/AndroidStudioProjects/PlanYourDay/app/src/main/res/layout/fragment_add_delete.xml" value="0.264" />
+        <entry key="..\:/Users/ohksj/AndroidStudioProjects/PlanYourDay/app/src/main/res/layout/fragment_day.xml" value="0.23541666666666666" />
+        <entry key="..\:/Users/ohksj/AndroidStudioProjects/PlanYourDay/app/src/main/res/layout/fragment_month.xml" value="0.23541666666666666" />
+        <entry key="..\:/Users/ohksj/AndroidStudioProjects/PlanYourDay/app/src/main/res/layout/fragment_note.xml" value="0.23541666666666666" />
+        <entry key="..\:/Users/ohksj/AndroidStudioProjects/PlanYourDay/app/src/main/res/layout/fragment_week.xml" value="0.23541666666666666" />
+        <entry key="..\:/Users/ohksj/AndroidStudioProjects/PlanYourDay/app/src/main/res/layout/item_todo_list.xml" value="0.264" />
+        <entry key="..\:/Users/ohksj/AndroidStudioProjects/PlanYourDay/app/src/main/res/layout/main_layout.xml" value="0.23541666666666666" />
+        <entry key="..\:/Users/ohksj/AndroidStudioProjects/PlanYourDay/app/src/main/res/layout/menu_option.xml" value="0.1947463768115942" />
+        <entry key="..\:/Users/ohksj/AndroidStudioProjects/PlanYourDay/app/src/main/res/menu/menu_none.xml" value="0.23541666666666666" />
+        <entry key="..\:/Users/ohksj/AndroidStudioProjects/PlanYourDay/app/src/main/res/menu/menu_option.xml" value="0.23541666666666666" />
+        <entry key="..\:/Users/ohksj/Desktop/Planner/PlanYourDay/app/src/main/res/drawable/month.xml" value="0.3495" />
+        <entry key="..\:/Users/ohksj/Desktop/Planner/PlanYourDay/app/src/main/res/layout/activity_all.xml" value="0.28559213339033773" />
+        <entry key="..\:/Users/ohksj/Desktop/Planner/PlanYourDay/app/src/main/res/layout/activity_day.xml" value="0.27182866556836904" />
+        <entry key="..\:/Users/ohksj/Desktop/Planner/PlanYourDay/app/src/main/res/layout/activity_edit_todo.xml" value="0.28559213339033773" />
+        <entry key="..\:/Users/ohksj/Desktop/Planner/PlanYourDay/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/ohksj/Desktop/Planner/PlanYourDay/app/src/main/res/layout/activity_month.xml" value="0.2" />
+        <entry key="..\:/Users/ohksj/Desktop/Planner/PlanYourDay/app/src/main/res/layout/activity_week.xml" value="0.28559213339033773" />
+        <entry key="..\:/Users/ohksj/Desktop/Planner/PlanYourDay/app/src/main/res/layout/item_todo_list.xml" value="0.28559213339033773" />
+        <entry key="..\:/Users/ohksj/Desktop/Planner/PlanYourDay/app/src/main/res/layout/month_todo_list.xml" value="0.28559213339033773" />
+        <entry key="..\:/Users/ohksj/Desktop/Planner/PlanYourDay/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2415" />
+        <entry key="..\:/Users/ohksj/Desktop/Planner/PlanYourDay/app/src/main/res/mipmap-anydpi-v26/ic_launcher_planner.xml" value="0.2415" />
+        <entry key="..\:/Users/ohksj/Desktop/Test/PlanYourDay/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.121" />
+        <entry key="..\:/Users/ohksj/Desktop/Test/PlanYourDay/app/src/main/res/drawable/add.xml" value="0.121" />
+        <entry key="..\:/Users/ohksj/Desktop/Test/PlanYourDay/app/src/main/res/drawable/add_delete.xml" value="0.121" />
+        <entry key="..\:/Users/ohksj/Desktop/Test/PlanYourDay/app/src/main/res/drawable/button_style.xml" value="0.121" />
+        <entry key="..\:/Users/ohksj/Desktop/Test/PlanYourDay/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.121" />
+        <entry key="..\:/Users/ohksj/Desktop/Test/PlanYourDay/app/src/main/res/drawable/ic_launcher_background.xml" value="0.121" />
+        <entry key="..\:/Users/ohksj/Desktop/Test/PlanYourDay/app/src/main/res/drawable/month.xml" value="0.121" />
+        <entry key="..\:/Users/ohksj/Desktop/Test/PlanYourDay/app/src/main/res/drawable/note.xml" value="0.121" />
+        <entry key="..\:/Users/ohksj/Desktop/Test/PlanYourDay/app/src/main/res/drawable/week.xml" value="0.121" />
+        <entry key="..\:/Users/ohksj/Desktop/Test/PlanYourDay/app/src/main/res/layout/activity_all.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/ohksj/Desktop/Test/PlanYourDay/app/src/main/res/layout/activity_day.xml" value="0.264" />
+        <entry key="..\:/Users/ohksj/Desktop/Test/PlanYourDay/app/src/main/res/layout/activity_edit_todo.xml" value="0.23541666666666666" />
+        <entry key="..\:/Users/ohksj/Desktop/Test/PlanYourDay/app/src/main/res/layout/activity_main.xml" value="0.23541666666666666" />
+        <entry key="..\:/Users/ohksj/Desktop/Test/PlanYourDay/app/src/main/res/layout/activity_month.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/ohksj/Desktop/Test/PlanYourDay/app/src/main/res/layout/activity_week.xml" value="0.19324497648567765" />
+        <entry key="..\:/Users/ohksj/Desktop/Test/PlanYourDay/app/src/main/res/layout/fragment_add_delete.xml" value="0.23541666666666666" />
+        <entry key="..\:/Users/ohksj/Desktop/Test/PlanYourDay/app/src/main/res/layout/fragment_day.xml" value="0.23541666666666666" />
+        <entry key="..\:/Users/ohksj/Desktop/Test/PlanYourDay/app/src/main/res/layout/fragment_month.xml" value="0.23541666666666666" />
+        <entry key="..\:/Users/ohksj/Desktop/Test/PlanYourDay/app/src/main/res/layout/fragment_week.xml" value="0.23541666666666666" />
+        <entry key="..\:/Users/ohksj/Desktop/Test/PlanYourDay/app/src/main/res/layout/item_todo_list.xml" value="0.23541666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

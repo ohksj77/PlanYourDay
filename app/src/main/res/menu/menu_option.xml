@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_item_delete"
+        android:title="선택항목 삭제"
+        />
+    <item
+        android:id="@+id/item_all_select"
+        android:title="전체 선택"
+        />
+    <item
+        android:id="@+id/item_not_select"
+        android:title="전체 선택 해제"
+        />
+</menu>
